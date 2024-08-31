@@ -2,7 +2,7 @@
 
 ## Overview
 
-"Open In GitHub" is a macOS Quick Action that allows you to quickly open a selected file in your GitHub repository directly from Finder. This convenient contextual menu item streamlines your workflow by eliminating the need to manually navigate to GitHub and search for the file.
+"Open In GitHub" is a macOS Quick Action that allows you to quickly open a selected file in your GitHub repository directly from Finder.
 
 ## Features
 
